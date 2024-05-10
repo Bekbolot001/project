@@ -1,0 +1,10 @@
+djangorestframework # для работы с джанго
+djangorestframework-simplejwt # для работ с токенами
+psycopg2-binary # для работ с базой данных
+python-decouple # для работ со скрытыми файлами
+Pillow # для работ с изображениями
+django-filter # фильтрация или разделения данных по значениям
+drf-yasg # приложение для фронтовиков
+django-jazzmin
+redis
+celery
